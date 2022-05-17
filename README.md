@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @godlevels.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning React JS.
-- 💞️ I’m looking to collaborate on any kind of web development projects.
-- 📫 How to reach me Email:olaolaoluwaogunsola@gmail.com
+- 👀 I’m a React Developer.
+- 🌱 Currently developing React skill.
+- 💞️ Looking forward to collaborating on any kind of web development projects.
+- 📫 How to reach me Email:Paulolaoluwa10@gmail.com
 
 <!---
 godlevels/godlevels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
