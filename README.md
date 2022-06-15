@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @godlevels.
+- 👋 Hi, I’m Ogunsola Paul.
 - 👀 I’m a React Developer.
 - 🌱 Currently developing React skill.
 - 💞️ Looking forward to collaborating on any kind of web development projects.
