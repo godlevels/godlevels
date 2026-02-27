@@ -9,7 +9,7 @@
 - 💡 I am interested in Cloud Engineering, Web & Mobile Development roles. Most of my projects are on company repos.
 - 💡 Education: I have a Diploma in Cloud Engineering from AltSchool Africa.
 - 🌱 I’m currently a Mobile & DevOps Engineer and have a solid foundation in using React, React-Native, also DevOps tools like Ansible, Terraform, Git, Jenkins, Prometheus, etc.
-- 💼 Job interests: Cloud Engineering (Intern or Junior level), Software Engineering (Web & Mobile development).
+- 💼 Job interests: Cloud Engineering, Software Engineering (Web & Mobile development).
 - 📫 You can contact me by emailing paulolaoluwa10@gmail.com.
 - - 💡 Fun fact: I enjoy meeting new people.
 
